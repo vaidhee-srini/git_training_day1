@@ -1,1 +1,3 @@
 Welcome to Day 1 of Git training
+
+Editing this file for task 2
